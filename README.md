@@ -1,4 +1,4 @@
-Introduction:¶
+Introduction:
 In this notebook, we analyze Amazon product reviews to understand the sentiments behind customer feedback. The goal is to determine whether reviews are generally positive, negative, or neutral. Sentiment analysis can help businesses better understand customer perceptions and improve products or services accordingly.
 
 We will use the VADER Sentiment Analyzer, which is a tool in the NLTK library designed to perform sentiment analysis based on text.
